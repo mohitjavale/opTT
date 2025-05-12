@@ -12,5 +12,5 @@ https://github.com/user-attachments/assets/d071a6ec-f7a2-48be-b9ad-9f867da030d2
 
 
 
-Work done here was partially originated as our final project for 16745: Optimal Control and Reinforcement Learning course at CMU.  
+Work done here was partially originated as our final project for 16745: Optimal Control and Reinforcement Learning course at Carnegie Mellon University.  
 (Authors - Mohit Javale, Atharva Sunder Ramdas)
